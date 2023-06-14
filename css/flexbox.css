@@ -57,4 +57,19 @@
 }
 .rodapePrincipal-navMap-list{
     height: auto;
+    flex-wrap: nowrap;
+}
+.rodapePrincipal-patrocinadores .container{
+    flex-direction: column;
+}
+.rodapePrincipal-contatoForm{
+    width: 100%;
+}
+.rodapePrincipal-patrocinadores-list{
+    align-items: center;
+    width: 100%;
+    margin: 0;
+}
+.rodapePrincipal-contatoForm-fieldset{
+    justify-content: center;
 }
